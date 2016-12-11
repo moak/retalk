@@ -1,0 +1,7 @@
+### OSX template
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+server/node_modules
+client/node_modules
